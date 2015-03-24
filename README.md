@@ -11,3 +11,15 @@ Traditional Toastmasters meetings have one person designated the “timer” for
 One of our club leaders during my time in Toastmasters, Sheryl, loves her iPad. Being in many different meetings each week, she got really excited about being able to use her iPad to time speeches, rather than the manual lights. An app would make for a handy tool for meeting leaders.
 
 There are other mobile apps and web apps out there. Most of them look nasty, but have some good functionality queues to learn from.
+
+##Consideration
+
+	- Should be visible from across the room (10-12’).
+	- A few speech length presets included, with optional custom min/max times.
+	- Full screen used as the warning light.
+	- Design will contribute to a relaxed environment for rookie speakers.
+	- Minimal setup before each speech would make it more useful as an impromptu back up lighting system.
+	- Include a simple history of previous speech times (time, min/max, date/time stamp).
+	- Option to edit history?
+	- “Personal” mode, using vibrations for warnings while the screen is off. 
+	- Change name to make it more widely marketable? “Talk Clock”?
